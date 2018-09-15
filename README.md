@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/eg-le/somanyleaves/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Streik für das Klima
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Liebe Schülerinnen und Schüler,
 
-### Markdown
+mit diesem Aufruf möchten wir euch bitten am Montag den 17.9.2018
+einen bis zu 4 stündigen Schulstreik zu organisieren. Daran müssen
+nicht alle teilhaben und damit einverstanden sein. Wir möchten für
+euch da sein, aber niemand ist uns etwas schuldig.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Wir möchten nicht, dass ihr in dieser Zeit nichts lernt. Die Zukunft
+wird für euch nicht einfach werden und ihr werdet viel Wissen, Können,
+und Erfahrung benötigen, um mit den schwieriger werdenden
+Umweltbedingungen auf unserem Planeten euer Leben frei, in Frieden,
+mit Liebe und Freude gestalten zu können.
 
-```markdown
-Syntax highlighted code block
+Aber jedes Wesen hat auch das Recht um sein Leben kämpfen zu dürfen.
+Deshalb senden wir euch diese Bitte, uns in unserem Kampf zu
+unterstützen.
 
-# Header 1
-## Header 2
-### Header 3
+Liebst die Erdbewohner im Hambacher Wald
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+808/5000
+# Strike for the climate
 
-**Bold** and _Italic_ and `Code` text
+## Dear students,
 
-[Link](url) and ![Image](src)
-```
+With this call we would like to ask you on Monday the 17.9.2018
+to organize a 4-hour school strike. Need to
+not all participate and agree. We want for
+you are there, but nobody owes us anything.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+We do not want you to learn anything during this time. The future
+will not be easy for you and you will have a lot of knowledge, ability,
+and experience need to be with the more difficult
+Environmental conditions on our planet free your life, in peace,
+to design with love and joy.
 
-### Jekyll Themes
+But every being also has the right to fight for his life.
+That is why we send you this request to join us in our fight
+support.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eg-le/somanyleaves/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+With Love the earthlings in the Hambacher Wald
